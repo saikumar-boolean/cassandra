@@ -1,0 +1,5 @@
+load_from:
+  - python_module: controles_laurentide_data_lake
+  - python_module: controles_laurentide_data_warehouse
+  - python_module: controles_laurentide_data_mart
+  - python_module: controles_laurentide_automations
