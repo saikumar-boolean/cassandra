@@ -1,0 +1,4 @@
+controles_laurentide_data_lake
+controles_laurentide_data_mart
+controles_laurentide_data_warehouse
+venv

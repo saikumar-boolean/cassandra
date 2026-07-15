@@ -1,0 +1,2 @@
+simple-salesforce>=1.12.4
+dlt[filesystem]==1.9.0

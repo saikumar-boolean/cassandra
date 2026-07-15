@@ -1,0 +1,14 @@
+{
+  "ORDERBOOK": {
+    "debug": true,
+    "current_email_timestamp": "2026-01-12T11:59:58+00:00"
+  },
+  "PARTNER": {
+    "debug": true,
+    "current_email_timestamp": "2026-01-08T15:11:17+00:00"
+  },
+  "RTA": {
+    "debug": true,
+    "current_email_timestamp": "2026-02-27T15:11:17+00:00"
+  }
+}
